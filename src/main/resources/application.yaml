@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: white-ai
+  ai:
+    openai:
+      # ??????? API Key
+      api-key: ${OPENAI_API_KEY}
+      # ??? DashScope OpenAI ????
+      base-url: https://dashscope.aliyuncs.com/compatible-mode
+      chat:
+        options:
+          model: qwen3.5-plus   # ???????
+logging:
+  level:
+    org.springframework.ai: debug
+    com.white.ai: debug

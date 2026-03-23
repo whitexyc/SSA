@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SAA-09Text2image" />
+        <module name="SAA-11Embed2vector" />
+        <module name="SAA-01HelloWorld" />
+        <module name="SAA-03ChatModelChatClient" />
+        <module name="SAA-16ClientCallBaiduMcpServer" />
+        <module name="SAA-14LocalMcpServer" />
+        <module name="SAA-17BailianRAG" />
+        <module name="SAA-15LocalMcpClient" />
+        <module name="SAA-13ToolCalling" />
+        <module name="SAA-12RAG4AiOps" />
+        <module name="SAA-06PromptTemplate" />
+        <module name="SAA-08Persistent" />
+        <module name="SAA-02Ollama" />
+        <module name="SAA-05Prompt" />
+        <module name="SAA-18TodayMenu" />
+        <module name="SAA-04StreamingOutput" />
+        <module name="SAA-07StructuredOutput" />
+        <module name="SAA-10Text2voice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="21">
+      <module name="SAA-16LocalClientCallBaiduMcpServer" target="21" />
+      <module name="SAA-18SpringBootEmail" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SAA-01HelloWorld" options="-parameters" />
+      <module name="SAA-02Ollama" options="-parameters" />
+      <module name="SAA-03ChatModelChatClient" options="-parameters" />
+      <module name="SAA-04StreamingOutput" options="-parameters" />
+      <module name="SAA-05Prompt" options="-parameters" />
+      <module name="SAA-06PromptTemplate" options="-parameters" />
+      <module name="SAA-07StructuredOutput" options="-parameters" />
+      <module name="SAA-08Persistent" options="-parameters" />
+      <module name="SAA-09Text2image" options="-parameters" />
+      <module name="SAA-10Text2voice" options="-parameters" />
+      <module name="SAA-11Embed2vector" options="-parameters" />
+      <module name="SAA-12RAG4AiOps" options="-parameters" />
+      <module name="SAA-13ToolCalling" options="-parameters" />
+      <module name="SAA-14LocalMcpServer" options="-parameters" />
+      <module name="SAA-15LocalMcpClient" options="-parameters" />
+      <module name="SAA-16ClientCallBaiduMcpServer" options="-parameters" />
+      <module name="SAA-16LocalClientCallBaiduMcpServer" options="-parameters" />
+      <module name="SAA-17BailianRAG" options="-parameters" />
+      <module name="SAA-18SpringBootEmail" options="-parameters" />
+      <module name="SAA-18TodayMenu" options="-parameters" />
+    </option>
+  </component>
+</project>

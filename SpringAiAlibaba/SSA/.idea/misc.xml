@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-01HelloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-03ChatModelChatClient/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-04StreamingOutput/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-05Prompt/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-06PromptTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-07StructuredOutput/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-08Persistent/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-09Text2image/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-10Text2voice/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-11Embed2vector/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-12RAG4AiOps/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-13ToolCalling/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-14LocalMcpServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-15LocalMcpClient/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-16LocalClientCallBaiduMcpServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-16ClientCallBaiduMcpServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-17BailianRAG/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-18SpringBootEmail/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-18TodayMenu/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/SAA-16LocalClientCallBaiduMcpServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SAA-18SpringBootEmail/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

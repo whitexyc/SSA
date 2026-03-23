@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="728f56af-0ff2-45ce-96b0-e7a1836ba2d1" name="Changes" comment="Changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "whitexyc"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/whitexyc/white-ai.git",
+    "accountId": "ad56fd3c-b32a-4432-9d2f-b8a8cf79d5cc"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../maven3.9.4/myJar_libs/com/alibaba/cloud/ai/spring-ai-alibaba-core/1.0.0.2/spring-ai-alibaba-core-1.0.0.2-sources.jar!/com/alibaba/cloud/ai/dashscope/chat/DashScopeChatModel.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../maven3.9.4/myJar_libs/io/projectreactor/reactor-core/3.7.9/reactor-core-3.7.9-sources.jar!/reactor/core/publisher/Flux.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\JAVA1\maven\apache-maven-3.8.4" />
+        <option name="localRepository" value="D:\JAVA1\maven\maven_repo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\JAVA1\maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="30By5A8WKDTvZmEjIYLu7GMzztM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;HTTP Request.generated-requests | #48.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #50.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #55.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 请求.generated-requests | #1.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SAA-12RAG4AiOps [clean].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Saa01HelloWorldApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa02OllamaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa03ChatModelChatClientApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa04StreamingOutputApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa05PromptApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa05PromptApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa06PromptTemplateApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa07StructuredOutputApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa08PersistentApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa09Text2imageApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa10Text2voiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa11Embed2vectorApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa12Rag4AiDatabaseApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa12Rag4AiOpsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa13ToolCallingApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa14LocalMcpServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa15LocalMcpClientApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa16ClientCallBaiduMcpServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa17BailianRagApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa18SpringBootEmailApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Saa18TodayMenuApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA1/white-ai/SpringAiAlibaba/SSA/SAA-07StructuredOutput/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2343934&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA1\white-ai\SpringAiAlibaba\SSA\SAA-07StructuredOutput\src\main\resources" />
+      <recent name="D:\JAVA1\white-ai\SpringAiAlibaba\SSA\SAA-06PromptTemplate\src\main\resources" />
+      <recent name="D:\JAVA1\white-ai\SpringAiAlibaba\SSA\SAA-05Prompt\src\main\resources" />
+      <recent name="D:\JAVA1\white-ai\SpringAiAlibaba\SSA\SAA-01HelloWorld\src\main\resources" />
+      <recent name="D:\devSoft\IDEA2024.1\IdeaProjects02\SpringAIAlibaba-atguiguV1\SAA-18TodayMenu\src\main\java\com\atguigu\study" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\devSoft\IDEA2024.1\IdeaProjects02\SpringAIAlibaba-atguiguV1\SAA-04StreamingOutput\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.study.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="generated-requests | #1" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <map>
+              <entry key="Saa01HelloWorldApplication" value="FAILED" />
+              <entry key="Saa04StreamingOutputApplication" value="FAILED" />
+              <entry key="Saa06PromptTemplateApplication" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Saa06PromptTemplateApplication">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#1" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #48" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="48">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #50" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="50">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #55" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="55">
+      <method v="2" />
+    </configuration>
+    <configuration name="Saa01HelloWorldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SAA-01HelloWorld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa01HelloWorldApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa02OllamaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-02Ollama" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa02OllamaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa03ChatModelChatClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-03ChatModelChatClient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa03ChatModelChatClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa04StreamingOutputApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-04StreamingOutput" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa04StreamingOutputApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa05PromptApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-05Prompt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa05PromptApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa06PromptTemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-06PromptTemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa06PromptTemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa07StructuredOutputApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-07StructuredOutput" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa07StructuredOutputApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa08PersistentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-08Persistent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa08PersistentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa09Text2imageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-09Text2image" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa09Text2imageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa10Text2voiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-10Text2voice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa10Text2voiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa11Embed2vectorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-11Embed2vector" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa11Embed2vectorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa12Rag4AiOpsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-12RAG4AiOps" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa12Rag4AiOpsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa13ToolCallingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-13ToolCalling" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa13ToolCallingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa14LocalMcpServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-14LocalMcpServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa14LocalMcpServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa15LocalMcpClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-15LocalMcpClient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa15LocalMcpClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa16ClientCallBaiduMcpServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-16ClientCallBaiduMcpServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa16ClientCallBaiduMcpServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa17BailianRagApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-17BailianRAG" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.study.Saa17BailianRagApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Saa18SpringBootEmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SAA-18SpringBootEmail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzyy.study.Saa18SpringBootEmailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP 请求.generated-requests | #1" />
+      <item itemvalue="HTTP 请求.generated-requests | #48" />
+      <item itemvalue="HTTP 请求.generated-requests | #50" />
+      <item itemvalue="HTTP 请求.generated-requests | #55" />
+      <item itemvalue="Spring Boot.Saa02OllamaApplication" />
+      <item itemvalue="Spring Boot.Saa03ChatModelChatClientApplication" />
+      <item itemvalue="Spring Boot.Saa04StreamingOutputApplication" />
+      <item itemvalue="Spring Boot.Saa05PromptApplication" />
+      <item itemvalue="Spring Boot.Saa06PromptTemplateApplication" />
+      <item itemvalue="Spring Boot.Saa07StructuredOutputApplication" />
+      <item itemvalue="Spring Boot.Saa08PersistentApplication" />
+      <item itemvalue="Spring Boot.Saa09Text2imageApplication" />
+      <item itemvalue="Spring Boot.Saa10Text2voiceApplication" />
+      <item itemvalue="Spring Boot.Saa11Embed2vectorApplication" />
+      <item itemvalue="Spring Boot.Saa12Rag4AiOpsApplication" />
+      <item itemvalue="Spring Boot.Saa13ToolCallingApplication" />
+      <item itemvalue="Spring Boot.Saa14LocalMcpServerApplication" />
+      <item itemvalue="Spring Boot.Saa15LocalMcpClientApplication" />
+      <item itemvalue="Spring Boot.Saa16ClientCallBaiduMcpServerApplication" />
+      <item itemvalue="Spring Boot.Saa17BailianRagApplication" />
+      <item itemvalue="Spring Boot.Saa18SpringBootEmailApplication" />
+      <item itemvalue="Spring Boot.Saa01HelloWorldApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Saa01HelloWorldApplication" />
+        <item itemvalue="HTTP 请求.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\阳\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="728f56af-0ff2-45ce-96b0-e7a1836ba2d1" name="Changes" comment="" />
+      <created>1753115074546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753115074546</updated>
+      <workItem from="1753115075552" duration="2774000" />
+      <workItem from="1753174455481" duration="6032000" />
+      <workItem from="1753261537795" duration="7284000" />
+      <workItem from="1753270749651" duration="2268000" />
+      <workItem from="1753354212366" duration="19000" />
+      <workItem from="1753426624697" duration="8264000" />
+      <workItem from="1753440444854" duration="4906000" />
+      <workItem from="1753515263170" duration="7119000" />
+      <workItem from="1753522636638" duration="1409000" />
+      <workItem from="1753601655538" duration="4989000" />
+      <workItem from="1753692297908" duration="12893000" />
+      <workItem from="1753780672625" duration="11421000" />
+      <workItem from="1753846259709" duration="5241000" />
+      <workItem from="1753866246735" duration="734000" />
+      <workItem from="1753963523408" duration="5547000" />
+      <workItem from="1754034461721" duration="7596000" />
+      <workItem from="1754049697542" duration="3730000" />
+      <workItem from="1754125304071" duration="1606000" />
+      <workItem from="1754132759742" duration="175000" />
+      <workItem from="1754209118737" duration="141000" />
+      <workItem from="1754229078181" duration="2038000" />
+      <workItem from="1754397994073" duration="1842000" />
+      <workItem from="1754462024077" duration="1480000" />
+      <workItem from="1754573281641" duration="5979000" />
+      <workItem from="1754638692943" duration="5733000" />
+      <workItem from="1754812347060" duration="8164000" />
+      <workItem from="1754826665867" duration="1362000" />
+      <workItem from="1754828080130" duration="3691000" />
+      <workItem from="1755847921034" duration="254000" />
+      <workItem from="1756692758107" duration="9226000" />
+      <workItem from="1756731775361" duration="3740000" />
+      <workItem from="1756800024858" duration="11993000" />
+      <workItem from="1756817473258" duration="1525000" />
+      <workItem from="1756887255808" duration="2540000" />
+      <workItem from="1756952703478" duration="9486000" />
+      <workItem from="1757056908257" duration="5452000" />
+      <workItem from="1757075346482" duration="6813000" />
+      <workItem from="1757128009561" duration="14303000" />
+      <workItem from="1757236286879" duration="4506000" />
+      <workItem from="1757254881110" duration="5000" />
+      <workItem from="1757296595530" duration="3406000" />
+      <workItem from="1757320299909" duration="3350000" />
+      <workItem from="1757382874888" duration="12239000" />
+      <workItem from="1757422413300" duration="3188000" />
+      <workItem from="1757467817514" duration="4214000" />
+      <workItem from="1757493593415" duration="6495000" />
+      <workItem from="1757503448263" duration="273000" />
+      <workItem from="1757508051354" duration="5077000" />
+      <workItem from="1757555382467" duration="14822000" />
+      <workItem from="1757832308075" duration="337000" />
+      <workItem from="1757839846370" duration="286000" />
+      <workItem from="1757906364845" duration="1486000" />
+      <workItem from="1757911390928" duration="1929000" />
+      <workItem from="1774160185627" duration="18231000" />
+      <workItem from="1774228650843" duration="3309000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1774231565894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774231565894</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1774231665199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774231665199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpringAIAlibaba_atguiguV1$Saa05PromptApplication.ic" NAME="Saa05PromptApplication Coverage Results" MODIFIED="1753448115310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
